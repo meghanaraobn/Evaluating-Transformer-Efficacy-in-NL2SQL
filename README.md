@@ -1,11 +1,12 @@
 # Evaluating-Transformer-Efficacy-in-NL2SQL
+(If the file is not rendering correctly, use the "Download" option to save the file to your computer.)
 
-Contributors 
+##Contributors 
 - Meghana Rao B N
 - Suraj Shashidhar
 - Chandan Radhakrishna
 
-Abstract
+## Abstract
 
 - We studied automated natural language to SQL translators (NL2SQL) considering the state-of-the-art on transformer-based models.
 - We experiment with, variations (hyper-paramters) and extensions (e.g. alternative transformer usage) for this task and existing models, comparing our results with baselines and alternatives.
