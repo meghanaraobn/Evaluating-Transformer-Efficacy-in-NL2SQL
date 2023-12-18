@@ -1,7 +1,7 @@
 # Evaluating-Transformer-Efficacy-in-NL2SQL
 (If the file is not rendering correctly, use the "Download" option to save the file to your computer.)
 
-##Contributors 
+## Contributors 
 - Meghana Rao B N
 - Suraj Shashidhar
 - Chandan Radhakrishna
